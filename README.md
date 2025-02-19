@@ -1,8 +1,6 @@
 # Boto3
 Dealing with AWS Infra with python scripts
 
-Here’s a README file for your GitHub repository based on the script you’ve provided:
-
 ---
 
 # EC2 Instance Inventory Script
@@ -114,10 +112,5 @@ The script saves the results as `instances_list.csv` in the same directory as th
 
 Feel free to submit issues or pull requests if you'd like to contribute to this repository!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-Let me know if you need any adjustments!
